@@ -17,14 +17,16 @@ A princípio o site fará estes processos para um estado brasileiro. Na sua form
 --------
 II.  Stakeholders:
 
-cidadão comum
+Cidadão Comum
+
 Gestores
-desenvolvedores
+
+Desenvolvedores
 
 --------
 III.  Casos de Uso por Stakeholder:
 
-Cidadão comum:
+Cidadão Comum:
 Visualizar predições das curvas
 Mostrar taxa de acerto de previsões passadas (grau de confiança)
 
