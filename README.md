@@ -43,6 +43,38 @@ Avaliar modelos
 
 ## DUNFREY
 
+--------
+I. O que é o sistema?
+
+Uma plataforma que, de maneira automatizada, realiza prospecções de um periodo das mortes provocadas por COVID-19, usando um ou mais dados temporais de dias anteriores. Os dados utilizados para realizar estas prospecções são medidas diárias de algum evento, como dados sobre os casos confirmados de COVID-19 durante um ano; quantidade diária de pessoas vacinadas durante um ano, ou; informação de dias ordinários ou dias de feriados, que podem ocasionar aglomerações. A plataforma permite utilizar os dados de forma isolada ou em conjunto.
+
+```
+exe.1:
+-> casos diários confirmados de: 01 jan até 31 dez de 2020
+-> prospecção diária de mortes do período 01 a 08 de jan de 2021
+
+exe.2:
+-> casos diários confirmados de: 01 jan até 31 dez de 2020 + vacinados por dia de: 01 jan até 31 dez de 2020
+-> prospecção diária de mortes do período 01 a 08 de jan de 2021
+```
+
+--------
+II.  Stakeholders:
+
+Gestores, epidemiologistas, analistas e cientistas de dados, e programadores.
+
+--------
+III. Casos de Uso por Stakeholder:
+
+a. Usuários: Cidadão Comum 
+a.1. uma localidade
+a.1.1. seleciona período dos dados que serão de entrada
+a.1.1.1. seleciona a lista de elementos que devem ser utilizados como dados de entrada disponíveis para a localidade
+a.1.1.2. possibilidade de inserção de uma diferente série temporal para período selecionado
+a.2. seleciona período para prospecção
+a.3. obtém curva de predição
+
+
 ## JULIO
 
 --------
