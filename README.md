@@ -54,7 +54,7 @@ exe.1:
 -> realizar prospecções diárias de mortes do período 01 a 08 de jan de 2021
 
 exe.2:
--> usar casos casos diários confirmados de: 01 jan até 31 dez de 2020 e vacinados por dia de: 01 jan até 31 dez de 2020 como entrada de dados
+-> usar casos casos diários confirmados de 01 jan até 31 dez e vacinados por dia de 01 jan até 31 dez de 2020 como os dois dados entrada para prospeção de mortes por COVID-19
 -> realizar prospecções diárias de mortes do período 01 a 08 de jan de 2021
 ```
 
