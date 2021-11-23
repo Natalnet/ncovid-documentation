@@ -46,16 +46,16 @@ Avaliar modelos
 --------
 I. O que é o sistema?
 
-Uma plataforma que, de maneira automatizada, realiza prospecções de um periodo das mortes provocadas por COVID-19, usando um ou mais dados temporais de dias anteriores. Os dados utilizados para realizar estas prospecções são medidas diárias de algum evento, como dados sobre os casos confirmados de COVID-19 durante um ano; quantidade diária de pessoas vacinadas durante um ano, ou; informação de dias ordinários ou dias de feriados, que podem ocasionar aglomerações. A plataforma permite utilizar os dados de forma isolada ou em conjunto.
+Uma plataforma que, de maneira automatizada, realiza prospecções de mortes provocadas por COVID-19 de um periodo selecionado pelo usuário, usando um ou mais dados temporais de dias anteriores. Os dados utilizados para realizar estas prospecções pode ser submetidas em conjunto ou isoladamente e são medidas diárias de algum evento ou elemento, como dados sobre os casos confirmados de COVID-19 durante um ano; ou a quantidade diária de pessoas vacinadas durante um ano, ou; informação de dias ordinários ou dias de feriados, que podem ocasionar aglomerações.
 
 ```
 exe.1:
--> casos diários confirmados de: 01 jan até 31 dez de 2020
--> prospecção diária de mortes do período 01 a 08 de jan de 2021
+-> usar casos diários confirmados de 01 jan até 31 dez de 2020 como entrada de dados
+-> realizar prospecções diárias de mortes do período 01 a 08 de jan de 2021
 
 exe.2:
--> casos diários confirmados de: 01 jan até 31 dez de 2020 + vacinados por dia de: 01 jan até 31 dez de 2020
--> prospecção diária de mortes do período 01 a 08 de jan de 2021
+-> usar casos casos diários confirmados de: 01 jan até 31 dez de 2020 e vacinados por dia de: 01 jan até 31 dez de 2020 como entrada de dados
+-> realizar prospecções diárias de mortes do período 01 a 08 de jan de 2021
 ```
 
 --------
