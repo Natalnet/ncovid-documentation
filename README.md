@@ -114,5 +114,28 @@ III. Casos de Uso por Stakeholder:
   b.6. Treinar modelo a partir de repositório de dados indicado pelo cientista
 
 ## FRANCINALDO
+--------
+I. O que é o sistema?
+
+O sistema possui dois focos principais: o primeiro voltado a auxiliar gestores públicos nas ações de enfrentamento de epidemias, o outro foco é viabilizar de forma eficaz o desenvolvimento e deployment de modelos preditivos data driven.
+
+
+--------
+II.  Stakeholders:
+
+Gestores, Desenvolvedores
+
+--------
+III.  Casos de Uso por Stakeholder:
+
+Gestores:
+- Visualizar dados e gráficos de localidade específica, incluindo predições
+- Informar dados locais (casos, ações, etc)
+- Simular efeito de novas medidas de enfrentamento
+
+Desenvolvedores:
+- Armazenar e analisar datasets
+- Armazenar e versionar os modelos
+- Automatizar o processo de treinamento e predições
 
 ## EMERSON
