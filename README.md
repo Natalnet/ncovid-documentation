@@ -139,3 +139,31 @@ Desenvolvedores:
 - Automatizar o processo de treinamento e predições
 
 ## EMERSON
+--------
+I. O que é o sistema?
+
+O sistema é um interface que tem como objetivo atender uma demanda de diferentes usuários, desde os que desejam apenas visualizar dados da pandemia de forma intuitiva e clara, até os que querem treinar e modificar modelos preditivos. A variação de usuários representa a também a variação das funcionalidades disponíveis no sistema, dessa forma, o sistema tem que ser intuitivo e flexível para atender todas as demandas. Dentre os usuários se tem a população geral, que deseja apenas verificar de forma gráfica os dados já existentes a respeito da pandemia, além de observar possíveis variações previstas por modelos e métodos computacionais. Os usuários gestores podem usar o sistema para observar o impactos de possíveis modedidas podem vir a ter dentro do seu domínio de atuação. Por fim, os usuários da academia, com conhecimentos prévios em aprendizdo de máquina, modelos preditivos, estátisticas e análise de dados.
+
+--------
+II.  Stakeholders:
+
+Usuário Comum, Gestores e Desenvolvedores
+
+--------
+III.  Casos de Uso por Stakeholder:
+
+Usuário Comum:
+- Visualizar gráficos e predições.
+- Escolher qual modelo utilizar para geração das predições.
+
+Gestores:
+- Visualizar gráficos e predições.
+- Escolher qual modelo utilizar para geração das predições.
+- Modificar algumas entradas dos modelos a fim de avaliar a eficiência de medidas de enfrentamento.
+
+Desenvolvedores:
+- Inserir novos datasets.
+- Treinar modelos com todas as variáveis disponíveis ou selecionadas.
+- Todas as funcionalidades já inclusa dos demais Stakeholders.
+
+
