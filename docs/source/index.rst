@@ -1,5 +1,7 @@
-Projeto N-covid
+Projeto Ncovid
 ###############
+
+This page ....
 
 Esta página contém a documentação da plataforma N-covid. O propósito principal desta plataforma é fornecer um ambiente (site) que concentre recursos importantes para acompanhamento da evolução de pandemias virais, como visualização de dados da pandemia de diferentes naturezas e em diferentes níveis regionais, predição de tendencia das curvas e eventual sugestão de ações para reduzir os efeitos da pandemia. Em sua versão inicial, a platafoma é projetada para ser usada na pandemia da COVID-19.
 
