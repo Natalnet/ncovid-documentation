@@ -1,4 +1,4 @@
-Terminologia
+Glossary
 ############
 
 * **Atributos**: dados da pandemia (mortes, infectados, vacinados, ...). Normalmente organizados em séries temporais;
