@@ -1,19 +1,40 @@
-Processando os dados
-####################
+Data processing
+###############
 
-A plataforma deve processar esporadicamente os dados de sua base, a fim de limpar os dados, encontrar padrões, relações ou melhores formas de representação dos atributos. A plataforma fornece no mínimo três 'estados' dos dados: dados brutos, dados processados, dados para predição.
+Data pipeline
+*************
 
-- Dados brutos: dados como vieram da base;
-- Dados processados: outras representações/combinação dos dados;
-- Dados para predição: exemplos para treinar os modelos de predição;
-- Dados preditos: contém o histórico de predições;
+The data pipeline transforms raw data into data suitable to be used as input for the training of forecast models.
 
-Estes estados ficam armazenados na plataforma e são gerados a medida que mais dados são adicionados.
+Data acquisition
+================
 
-- A plataforma processa os dados de sua base;
-- A plataforma gera novas represetações para os dados;
-- A plataforma encontra relações entre os diferentes atributos;
+Data curation
+=============
 
-{..., norm A, ...}
+Data transformation
+===================
 
-dados para predição -> processa -> normalização -> norm A
+Data integration
+================
+
+Data reduction
+==============
+
+Data preparation
+================
+
+Data analytics
+**************
+
+A set of statistical techniques to extract information from data.
+
+Input features for COVID-19
+***************************
+
+The most common feature to be forecasted is the time-series of deaths caused by COVID-19.
+
+.. csv-table:: Input features COVID-19 forecast
+   :file: tables/input_features.csv
+   :widths: 30
+   :header-rows: 1

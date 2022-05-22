@@ -1,0 +1,12 @@
+Baseline,Autoregressive,Epidemiological,Machine Learning
+Naive,A,SIR,Vannila LSTM
+Average,AR,SIRD,Stacked LSTM
+Exponential Smoothing,ARMA,tSIR,Bi-directional LSTM
+Gomperz growth,ARIMA,SEIRD,Convolutional LSTM
+Logistic growth,VARIMA,,ANN
+Exponential growth,MARS,,Random Forest
+von Bertalanffy growth,ANFIS,,Autoencoder
+Probability distributions,ANFIs,,Support Vector regression
+,,,Time Delay neural networks (TDNNs)
+,,,Extreme Learning machine
+,,,Prophet forecasting model

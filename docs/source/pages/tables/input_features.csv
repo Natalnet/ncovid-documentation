@@ -1,0 +1,27 @@
+Input features
+Cases (infected)
+Deaths
+Recovered
+Mobility
+Temperature
+Humidity
+Air Quality Index (AQI)
+# of Vaccinated
+Population vaccinated %
+# of people tested
+Negative tests
+ICU occupancy %
+ICU occupancy by group age
+# of people on ventilation
+# of hospitalized
+Excess Deaths
+Population Density
+Death rate (deaths / population)
+Infected rate (cases / population)
+Mortality (deaths / infected)
+Reproduction number (R_0) (transmission rate)
+Local holidays
+Engine searches
+Sentiment data from social networks
+Device exposures (mobile data to measure social contact)
+

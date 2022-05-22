@@ -1,10 +1,9 @@
 Project Ncovid 
 ####################
 
-This page contains the documentation for the Ncovid project. The Ncovid project is an initiative from Prof. Luiz Marcos from UFRN to foment the development of human research for epidemiology forecast, motivate by the COVID-2019 pandemic.
+This page contains the documentation for the Ncovid project. The Ncovid project is an initiative from Prof. Luiz Marcos from UFRN to foment the development of human research for epidemiology forecast, motivated by the COVID-2019 pandemic.
 
-The Ncovid framework 
-is a set of libraries that enables rapid development and deployment of forecast models for epidemics in general. It's main components are the webpage and the backend libraries. The site provides visualization and allow the training of models. You can check the latest version of the ncovid webpage `here <http://ncovid.natalnet.br>`_.
+The Ncovid framework is a set of libraries that enables rapid development and deployment of forecast models for epidemics in general. It's main components are the webpage and the backend libraries. The site provides visualization and allow the training of models. You can check the latest version of the ncovid webpage `here <http://ncovid.natalnet.br>`_.
 
 In this page documents both the current and expected versions of the ncovid system.
 
@@ -19,10 +18,12 @@ Contents
    :maxdepth: 2
 
    pages/system-overview
-   pages/desired-func
+   pages/data_processing
+   pages/ml-pipeline
+   pages/software_architecture
 
 
 Feedback
 --------
 
-Don’t hesitate to ask about some additional info or next guides and also if you find some mistakes, please let me know. This can be done by submitting an issue or a push request on github.
+Don’t hesitate to ask about some additional info or next guides and also if you find some mistakes, please let we know. This can be done by submitting an issue or a push request on github. `This <https://sublime-and-sphinx-guide.readthedocs.io/en/latest/glossary.html>`_ manual presents many tips about sphinx documents.
